@@ -43,7 +43,7 @@
     "webp"
   ],
   "dependencies": {
-    "cwebp-bin": "^4.0.0",
+    "cwebp-bin": "doc-ai/cwebp-bin",
     "exec-buffer": "^3.0.0",
     "is-cwebp-readable": "^2.0.1"
   },
